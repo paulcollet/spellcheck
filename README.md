@@ -1,9 +1,9 @@
 # spellcheck
 
-# This is simple little speck checker.
-# It needs a text file to check followed by the path to a dictionary of words.
+This is simple little speck checker.
+It needs a text file to check followed by the path to a dictionary of words.
 
-# Ex: ./typos text.txt /bin/dict/words
+Ex: ./typos text.txt /bin/dict/words
 
-# previously run on:
-# ubuntu Linux : std sheel script
+previously run on:
+ubuntu Linux : std sheel script
